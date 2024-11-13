@@ -11,3 +11,4 @@ for(int i=0;i<strlen(str);i++){
 }
 printf("result of xor operation:%s \n",resxor);
 }
+
