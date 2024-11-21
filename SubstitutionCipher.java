@@ -1,8 +1,7 @@
 
-
 import java.util.Scanner;   
 
-public class CaesarCiphercode   
+public class SubstitutionCipher
 {   
  public static final String ALPHABET = "abcdefghijklmnopqrstuvwxyz";   
    
